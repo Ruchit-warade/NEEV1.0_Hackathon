@@ -1,1 +1,5 @@
-numpy pandas streamlit plotly.express plotly.graph_objects
+numpy 
+pandas 
+streamlit 
+plotly.express 
+plotly.graph_objects
